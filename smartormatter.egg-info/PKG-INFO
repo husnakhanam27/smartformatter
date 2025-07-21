@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: smartormatter
+Version: 0.1
+Summary: Utility functions for smart formatting of names, phones, numbers.
+Author: Husna
+Requires-Dist: inflect
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
